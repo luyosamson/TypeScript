@@ -1,4 +1,4 @@
-var num = 67;
-num = "LUYO";
-num.toUpperCase();
-console.log(num);
+var num = 200;
+var num1 = 200;
+var result = num + num1;
+console.log(result);
