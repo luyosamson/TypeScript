@@ -5,11 +5,11 @@ interface person{
     readonly race:string
 
 }
-let users:person={
+let userss:person={
     name:"Samson",
     age:23,
     gender:"male",
     race:"African"
 }
-console.log(users)
-console.log(users.name)
+console.log(userss)
+console.log(userss.name)
