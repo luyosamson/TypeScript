@@ -5,7 +5,6 @@ interface person{
     readonly race:string
 
 }
-
 let users:person={
     name:"Samson",
     age:23,
