@@ -12,4 +12,5 @@ let userss:person={
     race:"African"
 }
 console.log(userss)
+
 console.log(userss.name)
