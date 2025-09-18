@@ -3,7 +3,6 @@ interface person{
     age:number;
     gender?:string;
     readonly race:string
-
 }
 let userss:person={
     name:"Samson",
