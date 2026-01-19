@@ -5,4 +5,4 @@ var users = {
     race: "African"
 };
 console.log(users);
-console.log(users.name);
+console.log(users.race);
